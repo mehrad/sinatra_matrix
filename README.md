@@ -1,3 +1,4 @@
 # sinatra_matrix
-gem install sinatra
-ruby myapp.rb
+# gem install sinatra
+
+# ruby myapp.rb
